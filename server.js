@@ -33,7 +33,7 @@ const floors = ['GF', 'FF', 'SF', 'TF'];
 const studentNames = ['Ama Mensah', 'Kwame Asante', 'Esi Boateng', 'Kojo Owusu', 'Adwoa Agyeman', 'Kofi Ofori', 'Akosua Appiah', 'Yaw Antwi', 'Abena Frimpong', 'Nana Boadu'];
 const defaultUsers = [
   { email: ADMIN_EMAIL, password: ADMIN_PASSWORD, name: 'Campus Admin', role: 'admin' },
-  { indexNumber: '10011507', password: 'student123', name: 'Roland Nyame', role: 'student' },
+  { indexNumber: '10011507', password: 'student123', name: 'Ama Mensah', role: 'student' },
 ];
 const tokens = new Map();
 
